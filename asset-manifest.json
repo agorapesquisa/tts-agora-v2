@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.c6c2dadf.css",
-    "main.js": "/static/js/main.92735715.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/index.html",
-    "main.c6c2dadf.css.map": "/static/css/main.c6c2dadf.css.map",
-    "main.92735715.js.map": "/static/js/main.92735715.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/tts-agora-v2/static/css/main.c6c2dadf.css",
+    "main.js": "/tts-agora-v2/static/js/main.0c0bf2d3.js",
+    "static/js/787.28cb0dcd.chunk.js": "/tts-agora-v2/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/tts-agora-v2/index.html",
+    "main.c6c2dadf.css.map": "/tts-agora-v2/static/css/main.c6c2dadf.css.map",
+    "main.0c0bf2d3.js.map": "/tts-agora-v2/static/js/main.0c0bf2d3.js.map",
+    "787.28cb0dcd.chunk.js.map": "/tts-agora-v2/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c6c2dadf.css",
-    "static/js/main.92735715.js"
+    "static/js/main.0c0bf2d3.js"
   ]
 }
