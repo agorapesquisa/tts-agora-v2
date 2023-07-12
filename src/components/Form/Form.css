@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    background-color: rgb(56, 56, 56);
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
+.container {
+    display: flex;
+    justify-content: center;
+}
+p {
+    text-align: center;
+}
+.form {
+    margin-top: 40px;
+}
+#tts_text {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    resize: vertical;
+    font-size: 16;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 10px;
+}
+#dropdown {
+    text-align: center;
+}
+select {
+    margin-left: 5px;
+    font-size: 14px;
+    font-family: 'Montserrat', 'sans serif';
+    font-weight: 600;
+}
+#btn {
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+}
+#tts_submit {
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+    padding: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    background-color: #f4ff56;
+}
